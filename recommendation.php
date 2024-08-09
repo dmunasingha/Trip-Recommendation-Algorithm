@@ -1,4 +1,5 @@
 <?php
+
 $trips = [
     ['id' => 1, 'tags' => ['beautiful', 'hot', 'sunny']],
     ['id' => 2, 'tags' => ['cold', 'beautiful']],
